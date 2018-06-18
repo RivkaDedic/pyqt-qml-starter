@@ -1,0 +1,1 @@
+Simple python project to get started with pyqt and qml
